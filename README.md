@@ -1,6 +1,6 @@
-## Day 1
-
 # learning
+
+## Day 1
 
 ### Blender
 - Installed Blender
